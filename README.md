@@ -50,17 +50,13 @@ In This Project, Very Challenging Problem Is Encountered And Defeated By Me . I 
 
 I Also Demonstrate My Skill In SQL Using Temp Table, I Want To Demonstrate My Recently Acquired Skill Which Is Join/Union ,But So Far I Didn't Find Any Data That Have Interesting Point OR Didn't Have Seperate Data
 
+I Gained Much,The Only Hard Part Is The Centaur. After I Get Past It, It Have Been Smooth Sailing ^^. 
 
 # Result
 
 Also The Result Is In Tableau Public , Below Link: Flipcart Products Overview
 
 https://public.tableau.com/app/profile/alcyone/viz/FlipCartProductsOverview/Dashboard1
-
-
-# Summary
-
-I Gained Much,The Only Hard Part Is The Centaur. After I Get Past It, It Have Been Smooth Sailing ^^. 
 
 # Goal
 
